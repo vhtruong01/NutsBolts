@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b01869542a7a0f4caa8445a07c661ea, type: 3}
+  m_Name: Lv 1
+  m_EditorClassIdentifier: 
+  stages:
+  - {fileID: -6280360476584582297, guid: 5642120565f78184d8dff99d9e340273, type: 3}
+  - {fileID: -6316856610065022447, guid: eecfd9abf5289b545b03770140fccef4, type: 3}
+  - {fileID: -2180621499614165019, guid: 2ec2524852f474044889587104795188, type: 3}
+  time: 120
+  totalCoin: 500
+  bgm: {fileID: 8300000, guid: 3dbd340a050732c4fb67b711bbaf2169, type: 3}
